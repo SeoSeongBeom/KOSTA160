@@ -29,5 +29,6 @@
 >>>>>>> branch 'master' of https://github.com/SeoSeongBeom/KOSTA160.git
 >>>>>>> branch 'master' of https://github.com/SeoSeongBeom/KOSTA160.git
 >>>>>>> branch 'master' of https://github.com/SeoSeongBeom/KOSTA160.git
+왜안돼
 </body>
 </html>

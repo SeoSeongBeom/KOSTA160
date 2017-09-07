@@ -30,5 +30,6 @@
 >>>>>>> branch 'master' of https://github.com/SeoSeongBeom/KOSTA160.git
 >>>>>>> branch 'master' of https://github.com/SeoSeongBeom/KOSTA160.git
 왜안돼
+되는건지마는건지
 </body>
 </html>

@@ -17,6 +17,7 @@
 하이 수정이 되나
 뾰로롱
 신지훈
+현재형 기모딱
 >>>>>>> branch 'master' of https://github.com/SeoSeongBeom/KOSTA160.git
 </body>
 </html>

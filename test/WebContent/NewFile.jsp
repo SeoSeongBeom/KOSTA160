@@ -17,6 +17,7 @@
 하이 수정이 되나
 뾰로롱
 신지훈
+에디트되냐
 >>>>>>> branch 'master' of https://github.com/SeoSeongBeom/KOSTA160.git
 </body>
 </html>

@@ -7,6 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
+
+뾰로롱 뾰로롱 잘해보자
+
+=======
 승범이 멍청이 멍청이
 하지만 더 멍청이 ?
 명철이형이 수정을!
@@ -17,7 +22,12 @@
 하이 수정이 되나
 뾰로롱
 신지훈
+<<<<<<< HEAD
 에디트되냐
+=======
+현재형 기모딱
+>>>>>>> branch 'master' of https://github.com/SeoSeongBeom/KOSTA160.git
+>>>>>>> branch 'master' of https://github.com/SeoSeongBeom/KOSTA160.git
 >>>>>>> branch 'master' of https://github.com/SeoSeongBeom/KOSTA160.git
 </body>
 </html>

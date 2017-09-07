@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-승범이 멍청이
+승범이 멍청이 멍청이
 </body>
 </html>

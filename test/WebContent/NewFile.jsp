@@ -7,10 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-승범이 멍청이 멍청이
-하지만 더 멍청이 ?
-명철이형이 수정을!
-하이 수정이 되나
-뾰로롱
+
+뾰로롱 뾰로롱 잘해보자
+
 </body>
 </html>
